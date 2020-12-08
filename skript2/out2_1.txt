@@ -1,0 +1,6 @@
+Count: 5
+12563:bash lab2_1.sh
+12564:bash lab2_1.sh
+12565:ps -aU user -o pid,command
+12566:tail -n +2
+12567:sed -r s/\s*([^ ]+)\s(.*)/\1:\2/
