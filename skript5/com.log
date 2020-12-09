@@ -1,0 +1,230 @@
+MiB Mem :   1816.9 total,   1329.8 free,    186.5 used,    300.6 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1472.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.25 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+    888 root      20   0  682000  21584  16836 S   0.0   1.2   0:00.15 NetworkManager
+----------------------
+MiB Mem :   1816.9 total,   1209.7 free,    306.6 used,    300.7 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1352.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0  352248 132772   2852 R  87.5   7.1   0:04.44 bash
+    880 root      20   0  434604  40276  38712 R   0.0   2.2   0:00.25 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,   1110.8 free,    405.4 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1253.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0  450984 231508   2852 R  93.8  12.4   0:08.46 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,   1007.7 free,    508.5 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1150.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0  555264 335788   2852 R  99.9  18.0   0:12.62 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    896.5 free,    619.7 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1039.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0  668784 449308   2852 R  93.8  24.1   0:16.77 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    808.2 free,    707.9 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    951.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0  759072 539596   2852 R  99.9  29.0   0:20.92 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    733.4 free,    782.7 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    876.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0  835500 615892   2852 R  88.2  33.1   0:25.06 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    647.6 free,    868.5 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    790.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0  923148 703804   2852 R  93.8  37.8   0:29.24 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    563.2 free,    952.9 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    706.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1009476 789868   2852 R  93.3  42.5   0:33.38 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    470.9 free,   1045.3 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    614.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1103856 884380   2852 R  93.8  47.5   0:37.50 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    372.9 free,   1143.2 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    516.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1203912 984436   2852 R  93.3  52.9   0:41.65 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    286.2 free,   1230.0 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    429.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1292616   1.0g   2852 R  93.8  57.7   0:45.80 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    212.9 free,   1303.2 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    356.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1368384   1.1g   2852 R  83.3  61.8   0:49.91 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,    118.5 free,   1397.7 used,    300.8 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    261.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1465008   1.2g   2852 R  93.8  66.9   0:54.07 bash
+    880 root      20   0  434604  40276  38712 S   0.0   2.2   0:00.26 sssd_nss
+    879 root      20   0  499032  40128  18092 S   0.0   2.2   0:01.27 firewalld
+    904 root      20   0  636148  31428  16540 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25380  17580 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,     71.5 free,   1492.0 used,    253.4 buff/cache
+MiB Swap:    820.0 total,    819.2 free,      0.8 used.    168.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1563480   1.3g   2824 R  93.8  72.2   0:58.30 bash
+    879 root      20   0  499032  40100  18064 S   0.0   2.2   0:01.27 firewalld
+    880 root      20   0  434604  40060  38496 S   0.0   2.2   0:00.26 sssd_nss
+    904 root      20   0  636148  31316  16428 S   0.0   1.7   0:00.59 tuned
+    849 polkitd   20   0 1629404  25164  17364 S   0.0   1.4   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,     66.8 free,   1584.5 used,    165.7 buff/cache
+MiB Swap:    820.0 total,    813.0 free,      7.0 used.     83.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1659708   1.4g   2824 R  87.5  77.4   1:02.59 bash
+    879 root      20   0  499032  38260  16392 S   0.0   2.1   0:01.27 firewalld
+    880 root      20   0  434604  31516  29952 S   0.0   1.7   0:00.26 sssd_nss
+    904 root      20   0  636148  29644  14796 S   0.0   1.6   0:00.59 tuned
+    849 polkitd   20   0 1629404  24480  17364 S   0.0   1.3   0:00.12 polkitd
+----------------------
+MiB Mem :   1816.9 total,     74.7 free,   1685.4 used,     56.8 buff/cache
+MiB Swap:    820.0 total,    800.0 free,     20.0 used.     29.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1771644   1.5g   2628 R  63.6  83.4   1:07.49 bash
+    879 root      20   0  499032  29432   7564 S   0.0   1.6   0:01.27 firewalld
+    904 root      20   0  636148  21004   6584 S   0.0   1.1   0:00.59 tuned
+    849 polkitd   20   0 1629404  15572   8980 S   0.0   0.8   0:00.12 polkitd
+    888 root      20   0  682000  12548   8392 S   0.0   0.7   0:00.16 NetworkManager
+----------------------
+MiB Mem :   1816.9 total,     72.5 free,   1703.4 used,     41.0 buff/cache
+MiB Swap:    820.0 total,    592.7 free,    227.2 used.     20.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 1999212   1.6g   1032 R  50.0  88.3   1:18.00 bash
+   5951 root      20   0  275012   4264   3696 R   0.0   0.2   0:00.01 top
+    880 root      20   0  434604   1740   1508 S   0.0   0.1   0:00.27 sssd_nss
+    904 root      20   0  636148   1084    636 S   0.0   0.1   0:00.60 tuned
+   5779 root      20   0  222492   1076    928 S   0.0   0.1   0:00.01 look.bash
+----------------------
+MiB Mem :   1816.9 total,     71.3 free,   1698.8 used,     46.8 buff/cache
+MiB Swap:    820.0 total,    464.7 free,    355.2 used.     21.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 2125404   1.6g    860 R  87.5  88.0   1:23.72 bash
+   5959 root      20   0  275012   4300   3728 R   0.0   0.2   0:00.01 top
+    849 polkitd   20   0 1629404   1524   1356 S   0.0   0.1   0:00.12 polkitd
+    861 dbus      20   0   91772   1476   1136 S   0.0   0.1   0:00.20 dbus-daemon
+    904 root      20   0  636148   1372    868 S   0.0   0.1   0:00.60 tuned
+----------------------
+MiB Mem :   1816.9 total,     73.4 free,   1698.9 used,     44.6 buff/cache
+MiB Swap:    820.0 total,    335.5 free,    484.5 used.     22.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 2258328   1.6g    888 R  75.0  88.0   1:29.86 bash
+   5967 root      20   0  275012   4440   3868 R   0.0   0.2   0:00.00 top
+    880 root      20   0  434604   1292   1048 S   0.0   0.1   0:00.27 sssd_nss
+   5779 root      20   0  222492    980    832 S   0.0   0.1   0:00.01 look.bash
+   5969 root      20   0  217084    824    760 S   0.0   0.0   0:00.00 tail
+----------------------
+MiB Mem :   1816.9 total,     72.2 free,   1698.5 used,     46.3 buff/cache
+MiB Swap:    820.0 total,    225.0 free,    595.0 used.     22.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 2369604   1.6g    860 R  71.4  87.9   1:35.12 bash
+   5975 root      20   0  275012   4464   3888 R   0.0   0.2   0:00.01 top
+   5779 root      20   0  222492   1192   1044 S   0.0   0.1   0:00.02 look.bash
+    904 root      20   0  636148    964    460 S   0.0   0.1   0:00.61 tuned
+   5977 root      20   0  217084    864    800 S   0.0   0.0   0:00.00 tail
+----------------------
+MiB Mem :   1816.9 total,     72.6 free,   1701.7 used,     42.6 buff/cache
+MiB Swap:    820.0 total,    106.5 free,    713.5 used.     21.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 2494080   1.6g    768 R  93.3  88.1   1:40.83 bash
+   5983 root      20   0  275012   4448   3876 R   6.7   0.2   0:00.01 top
+   5779 root      20   0  222492   1064    916 S   0.0   0.1   0:00.02 look.bash
+   5985 root      20   0  217084    868    804 S   0.0   0.0   0:00.00 tail
+   5984 root      20   0  217060    756    688 S   0.0   0.0   0:00.00 head
+----------------------
+MiB Mem :   1816.9 total,     70.1 free,   1701.4 used,     45.4 buff/cache
+MiB Swap:    820.0 total,      0.0 free,    820.0 used.     19.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5776 root      20   0 2602584   1.6g    736 R  88.2  88.0   1:46.46 bash
+   5991 root      20   0  275012   4448   3876 R   0.0   0.2   0:00.00 top
+   5779 root      20   0  222492   1076    928 S   0.0   0.1   0:00.02 look.bash
+   5992 root      20   0  217060    848    784 S   0.0   0.0   0:00.00 head
+   5993 root      20   0  217084    768    704 S   0.0   0.0   0:00.00 tail
+----------------------
