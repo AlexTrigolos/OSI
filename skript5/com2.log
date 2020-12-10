@@ -1,0 +1,1827 @@
+MiB Mem :   1816.9 total,   1391.7 free,    191.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1473.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  224868   5296   2880 R  44.4   0.3   0:00.17 mem.bash
+   2654 user      20   0  224868   5308   2836 R  38.9   0.3   0:00.16 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1374.9 free,    208.0 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1456.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  233448  14008   2880 R  36.8   0.8   0:00.78 mem.bash
+   2654 user      20   0  233448  14020   2836 R  36.8   0.8   0:00.77 mem2.bash
+   2673 user      20   0  275012   4540   3968 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1357.9 free,    225.1 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1439.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  242160  22720   2880 R  43.8   1.2   0:01.39 mem.bash
+   2654 user      20   0  242160  22732   2836 R  43.8   1.2   0:01.38 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1340.6 free,    242.3 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1422.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  251004  31432   2880 R  47.1   1.7   0:02.00 mem.bash
+   2654 user      20   0  250872  31444   2836 R  41.2   1.7   0:02.00 mem2.bash
+   2687 user      20   0  275012   4424   3848 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1323.5 free,    259.4 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1405.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  259980  40408   2880 R  44.4   2.2   0:02.62 mem.bash
+   2654 user      20   0  259584  40156   2836 R  38.9   2.2   0:02.61 mem2.bash
+    872 root      20   0   98980   9840   7628 S  11.1   0.5   0:01.54 systemd-logind
+   2694 user      20   0  275012   4420   3848 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+MiB Mem :   1816.9 total,   1306.2 free,    276.7 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1387.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  268428  48868   2836 R  50.0   2.6   0:03.24 mem2.bash
+   2653 user      20   0  268692  49120   2880 R  38.9   2.6   0:03.22 mem.bash
+   2701 user      20   0  275012   4524   3952 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1289.4 free,    293.5 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1371.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  277272  57832   2880 R  44.4   3.1   0:03.84 mem.bash
+   2654 user      20   0  277008  57580   2836 R  44.4   3.1   0:03.84 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1271.7 free,    311.2 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1353.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  285852  66280   2880 R  47.4   3.6   0:04.46 mem.bash
+   2654 user      20   0  285852  66292   2836 R  42.1   3.6   0:04.46 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1254.5 free,    328.4 used,    234.0 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1336.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  294696  75256   2880 R  44.4   4.0   0:05.08 mem.bash
+   2654 user      20   0  294564  75004   2836 R  33.3   4.0   0:05.06 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1238.0 free,    344.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1319.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  302880  83452   2836 R  52.9   4.5   0:05.69 mem2.bash
+   2653 user      20   0  303276  83700   2880 R  41.2   4.5   0:05.69 mem.bash
+   2738 user      20   0  275012   4420   3848 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1222.1 free,    360.8 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1303.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  310932  91372   2836 R  44.4   4.9   0:06.30 mem2.bash
+   2653 user      20   0  311460  91884   2880 R  38.9   4.9   0:06.30 mem.bash
+   2745 user      20   0  275012   4396   3824 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1205.6 free,    377.3 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1287.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  319380  99820   2836 R  40.0   5.4   0:06.92 mem2.bash
+   2653 user      20   0  319908 100596   2880 R  35.0   5.4   0:06.92 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1189.1 free,    393.8 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1270.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  328356 108780   2880 R  47.1   5.8   0:07.53 mem.bash
+   2654 user      20   0  327828 108268   2836 R  47.1   5.8   0:07.54 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1174.2 free,    408.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1255.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  336144 116700   2880 R  38.9   6.3   0:08.13 mem.bash
+   2654 user      20   0  335352 115660   2836 R  38.9   6.2   0:08.13 mem2.bash
+   2766 user      20   0  275012   4528   3952 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1157.2 free,    425.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1238.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  344724 125412   2880 R  50.0   6.7   0:08.74 mem.bash
+   2654 user      20   0  343932 124372   2836 R  44.4   6.7   0:08.74 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1140.1 free,    442.8 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1221.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  353568 134124   2880 R  44.4   7.2   0:09.35 mem.bash
+   2654 user      20   0  352644 133084   2836 R  44.4   7.2   0:09.36 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1122.9 free,    459.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1204.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  362544 143100   2880 R  38.9   7.7   0:09.96 mem.bash
+   2654 user      20   0  361092 141532   2836 R  38.9   7.6   0:09.96 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1105.8 free,    477.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1187.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  371388 152076   2880 R  47.1   8.2   0:10.58 mem.bash
+   2654 user      20   0  369804 150244   2836 R  41.2   8.1   0:10.57 mem2.bash
+   2794 user      20   0  275012   4484   3908 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1102.2 free,    480.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1183.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  373368 153924   2880 R  44.4   8.3   0:10.71 mem.bash
+   2654 user      20   0  371652 152092   2836 R  38.9   8.2   0:10.70 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1084.9 free,    498.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1166.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  382080 162636   2880 R  44.4   8.7   0:11.32 mem.bash
+   2654 user      20   0  380496 161068   2836 R  44.4   8.7   0:11.32 mem2.bash
+   2808 user      20   0  275012   4452   3880 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1068.5 free,    514.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1150.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  391056 171612   2880 R  41.2   9.2   0:11.94 mem.bash
+   2654 user      20   0  389076 169516   2836 R  41.2   9.1   0:11.93 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1051.3 free,    531.6 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1132.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  399900 180324   2880 R  41.2   9.7   0:12.54 mem.bash
+   2654 user      20   0  397788 178228   2836 R  41.2   9.6   0:12.54 mem2.bash
+   2822 user      20   0  275012   4336   3764 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1033.8 free,    549.1 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1115.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  406764 187204   2836 R  42.1  10.1   0:13.17 mem2.bash
+   2653 user      20   0  408744 189300   2880 R  36.8  10.2   0:13.16 mem.bash
+   2829 user      20   0  275012   4468   3896 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,   1016.7 free,    566.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1098.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  417588 198276   2880 R  47.1  10.7   0:13.78 mem.bash
+   2654 user      20   0  415344 195916   2836 R  41.2  10.5   0:13.78 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    999.7 free,    583.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1081.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  423924 204364   2836 R  47.1  11.0   0:14.39 mem2.bash
+   2653 user      20   0  426564 206988   2880 R  41.2  11.1   0:14.39 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    982.5 free,    600.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1064.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  435276 215700   2880 R  47.1  11.6   0:15.00 mem.bash
+   2654 user      20   0  432636 213076   2836 R  41.2  11.5   0:15.00 mem2.bash
+   2850 user      20   0  275012   4412   3840 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    965.2 free,    617.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1046.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  444120 224676   2880 R  41.2  12.1   0:15.61 mem.bash
+   2654 user      20   0  441480 222052   2836 R  41.2  11.9   0:15.62 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    947.8 free,    635.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1029.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  453096 233652   2880 R  38.9  12.6   0:16.23 mem.bash
+   2654 user      20   0  450192 230764   2836 R  38.9  12.4   0:16.23 mem2.bash
+   2864 user      20   0  275012   4444   3872 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    930.9 free,    652.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.   1012.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  461808 242364   2880 R  44.4  13.0   0:16.85 mem.bash
+   2654 user      20   0  458904 239476   2836 R  44.4  12.9   0:16.85 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    913.6 free,    669.3 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    995.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  470520 251076   2880 R  38.9  13.5   0:17.46 mem.bash
+   2654 user      20   0  467748 248188   2836 R  38.9  13.3   0:17.46 mem2.bash
+   2878 user      20   0  275012   4420   3848 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    896.3 free,    686.6 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    977.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  476592 257164   2836 R  44.4  13.8   0:18.09 mem2.bash
+   2653 user      20   0  479364 260052   2880 R  38.9  14.0   0:18.07 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    879.2 free,    703.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    960.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  485172 265612   2836 R  44.4  14.3   0:18.71 mem2.bash
+   2653 user      20   0  488340 268764   2880 R  38.9  14.4   0:18.70 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    862.2 free,    720.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    943.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  497184 277740   2880 R  47.1  14.9   0:19.31 mem.bash
+   2654 user      20   0  493752 274324   2836 R  41.2  14.7   0:19.30 mem2.bash
+   2899 user      20   0  275012   4488   3912 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    845.0 free,    737.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    926.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  505896 286452   2880 R  38.9  15.4   0:19.92 mem.bash
+   2654 user      20   0  502596 283036   2836 R  38.9  15.2   0:19.93 mem2.bash
+   2906 user      20   0  275012   4348   3776 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    842.0 free,    740.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    923.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  507480 288036   2880 R  44.4  15.5   0:20.06 mem.bash
+   2654 user      20   0  504048 284620   2836 R  44.4  15.3   0:20.06 mem2.bash
+   2913 user      20   0  275012   4384   3812 R  11.1   0.2   0:00.02 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    824.9 free,    758.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    906.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  516192 296748   2880 R  47.1  15.9   0:20.67 mem.bash
+   2654 user      20   0  512760 293332   2836 R  47.1  15.8   0:20.68 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    807.9 free,    775.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    889.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  521472 302044   2836 R  42.1  16.2   0:21.29 mem2.bash
+   2653 user      20   0  524904 305460   2880 R  31.6  16.4   0:21.28 mem.bash
+   2927 user      20   0  275012   4524   3952 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    790.6 free,    792.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    872.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  533748 314172   2880 R  38.9  16.9   0:21.91 mem.bash
+   2654 user      20   0  530316 310756   2836 R  38.9  16.7   0:21.91 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    773.3 free,    809.5 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    855.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  542592 323148   2880 R  47.1  17.4   0:22.53 mem.bash
+   2654 user      20   0  539028 319468   2836 R  41.2  17.2   0:22.52 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    757.4 free,    825.5 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    839.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  550776 331332   2880 R  42.1  17.8   0:23.14 mem.bash
+   2654 user      20   0  547212 327652   2836 R  36.8  17.6   0:23.14 mem2.bash
+   2948 user      20   0  275012   4428   3856 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    740.2 free,    842.6 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    821.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  559752 340308   2880 R  47.1  18.3   0:23.75 mem.bash
+   2654 user      20   0  555792 336364   2836 R  41.2  18.1   0:23.76 mem2.bash
+   2955 user      20   0  275012   4436   3860 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    722.8 free,    860.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    804.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  568728 349284   2880 R  47.1  18.8   0:24.38 mem.bash
+   2654 user      20   0  564504 345076   2836 R  41.2  18.5   0:24.37 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    705.7 free,    877.1 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    787.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  573216 353788   2836 R  44.4  19.0   0:24.99 mem2.bash
+   2653 user      20   0  577440 357996   2880 R  38.9  19.2   0:24.99 mem.bash
+   2969 user      20   0  275012   4348   3776 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    688.7 free,    894.1 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    770.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  586416 366972   2880 R  44.4  19.7   0:25.61 mem.bash
+   2654 user      20   0  581796 362236   2836 R  44.4  19.5   0:25.61 mem2.bash
+   2976 user      20   0  275012   4364   3792 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    671.7 free,    911.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    753.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  595128 375684   2880 R  36.8  20.2   0:26.22 mem.bash
+   2654 user      20   0  590376 370948   2836 R  36.8  19.9   0:26.23 mem2.bash
+   2651 root      20   0  275144   5040   4264 S  10.5   0.3   0:00.15 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    654.5 free,    928.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    736.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  603972 384660   2880 R  50.0  20.7   0:26.85 mem.bash
+   2654 user      20   0  599088 379660   2836 R  43.8  20.4   0:26.83 mem2.bash
+   2990 user      20   0  275012   4444   3868 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    637.3 free,    945.5 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    719.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  612816 393372   2880 R  38.9  21.1   0:27.45 mem.bash
+   2654 user      20   0  607800 388372   2836 R  38.9  20.9   0:27.46 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    620.4 free,    962.5 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    702.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  616644 397084   2836 R  47.1  21.3   0:28.07 mem2.bash
+   2653 user      20   0  621396 401820   2880 R  41.2  21.6   0:28.06 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    603.0 free,    979.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    684.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  630372 411060   2880 R  38.9  22.1   0:28.69 mem.bash
+   2654 user      20   0  625356 405796   2836 R  38.9  21.8   0:28.69 mem2.bash
+   3011 user      20   0  275012   4444   3872 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    586.2 free,    996.6 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    667.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  638952 419508   2880 R  47.1  22.5   0:29.31 mem.bash
+   2654 user      20   0  633936 414244   2836 R  41.2  22.3   0:29.30 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    568.6 free,   1014.3 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    650.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  642912 423220   2836 R  47.4  22.7   0:29.93 mem2.bash
+   2653 user      20   0  648060 428484   2880 R  31.6  23.0   0:29.92 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    551.4 free,   1031.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    633.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  651624 432196   2836 R  44.4  23.2   0:30.54 mem2.bash
+   2653 user      20   0  656772 437196   2880 R  38.9  23.5   0:30.54 mem.bash
+   3032 user      20   0  275012   4348   3776 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    534.3 free,   1048.6 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    615.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  665616 446172   2880 R  44.4  24.0   0:31.16 mem.bash
+   2654 user      20   0  660336 440908   2836 R  44.4  23.7   0:31.16 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    517.0 free,   1065.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    598.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  674724 455148   2880 R  47.1  24.5   0:31.78 mem.bash
+   2654 user      20   0  669048 449356   2836 R  41.2  24.2   0:31.77 mem2.bash
+   3046 user      20   0  275012   4416   3844 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    499.6 free,   1083.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    581.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  677892 458332   2836 R  42.1  24.6   0:32.40 mem2.bash
+   2653 user      20   0  683568 464124   2880 R  36.8  24.9   0:32.39 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    482.2 free,   1100.6 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    563.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  692544 473100   2880 R  52.9  25.4   0:33.02 mem.bash
+   2654 user      20   0  686604 467044   2836 R  41.2  25.1   0:33.00 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    465.2 free,   1117.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    546.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  701256 481812   2880 R  43.8  25.9   0:33.62 mem.bash
+   2654 user      20   0  695316 475756   2836 R  43.8  25.6   0:33.62 mem2.bash
+      7 root      20   0       0      0      0 I   6.2   0.0   0:00.42 kworker/0:1-events_power_ef+
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    448.0 free,   1134.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    529.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  710100 490524   2880 R  47.1  26.4   0:34.23 mem.bash
+   2654 user      20   0  704160 484732   2836 R  41.2  26.1   0:34.23 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    430.9 free,   1152.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    512.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  718944 499500   2880 R  47.1  26.8   0:34.84 mem.bash
+   2654 user      20   0  712740 493180   2836 R  41.2  26.5   0:34.83 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    413.5 free,   1169.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    495.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  721716 502156   2836 R  44.4  27.0   0:35.46 mem2.bash
+   2653 user      20   0  727788 508212   2880 R  38.9  27.3   0:35.45 mem.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    396.0 free,   1186.8 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    477.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  736764 517188   2880 R  38.9  27.8   0:36.07 mem.bash
+   2654 user      20   0  730428 510868   2836 R  38.9  27.5   0:36.07 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    380.2 free,   1202.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    461.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  744948 525372   2880 R  44.4  28.2   0:36.69 mem.bash
+   2654 user      20   0  738612 519052   2836 R  38.9  27.9   0:36.69 mem2.bash
+   3102 user      20   0  275012   4356   3780 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    365.6 free,   1217.3 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    447.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  752736 533292   2880 R  43.8  28.7   0:37.29 mem.bash
+   2654 user      20   0  746532 526972   2836 R  43.8  28.3   0:37.29 mem2.bash
+   3109 user      20   0  275012   4452   3876 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    349.7 free,   1233.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    431.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  761052 541476   2880 R  52.9  29.1   0:37.92 mem.bash
+   2654 user      20   0  754584 535156   2836 R  41.2  28.8   0:37.90 mem2.bash
+   3116 user      20   0  275012   4396   3820 R  11.8   0.2   0:00.02 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    333.3 free,   1249.6 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    414.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  769368 549924   2880 R  47.1  29.6   0:38.53 mem.bash
+   2654 user      20   0  763032 543604   2836 R  47.1  29.2   0:38.53 mem2.bash
+   3123 user      20   0  275012   4416   3844 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    316.0 free,   1266.9 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    397.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  778344 558900   2880 R  44.4  30.0   0:39.15 mem.bash
+   2654 user      20   0  771876 552316   2836 R  44.4  29.7   0:39.14 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    297.9 free,   1285.0 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    379.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  787188 567612   2880 R  42.1  30.5   0:39.76 mem.bash
+   2654 user      20   0  780456 560764   2836 R  42.1  30.1   0:39.76 mem2.bash
+   3138 user      20   0  275012   4428   3852 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    280.7 free,   1302.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    362.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  796032 576588   2880 R  38.9  31.0   0:40.37 mem.bash
+   2654 user      20   0  789036 569476   2836 R  38.9  30.6   0:40.37 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    263.4 free,   1319.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    345.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  805008 585564   2880 R  41.2  31.5   0:40.98 mem.bash
+   2654 user      20   0  797880 578188   2836 R  41.2  31.1   0:40.98 mem2.bash
+   3152 user      20   0  275012   4452   3880 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    246.3 free,   1336.5 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    328.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  813720 594276   2880 R  36.8  31.9   0:41.59 mem.bash
+   2654 user      20   0  806460 586900   2836 R  36.8  31.5   0:41.59 mem2.bash
+   3159 user      20   0  275012   4380   3808 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    229.1 free,   1353.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    310.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  815304 595612   2836 R  42.1  32.0   0:42.21 mem2.bash
+   2653 user      20   0  822696 603252   2880 R  36.8  32.4   0:42.20 mem.bash
+   3166 user      20   0  275012   4448   3872 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    212.1 free,   1370.8 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    293.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  831540 611964   2880 R  38.9  32.9   0:42.82 mem.bash
+   2654 user      20   0  823752 604324   2836 R  38.9  32.5   0:42.82 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    195.1 free,   1387.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    276.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  840252 620676   2880 R  44.4  33.4   0:43.44 mem.bash
+   2654 user      20   0  832332 612772   2836 R  44.4  32.9   0:43.44 mem2.bash
+   3180 user      20   0  275012   4448   3872 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    178.0 free,   1404.8 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    259.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  849096 629652   2880 R  44.4  33.8   0:44.06 mem.bash
+   2654 user      20   0  841044 621484   2836 R  38.9  33.4   0:44.05 mem2.bash
+   3187 user      20   0  275012   4380   3808 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    160.8 free,   1422.1 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    242.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  857940 638364   2880 R  42.1  34.3   0:44.68 mem.bash
+   2654 user      20   0  849888 630196   2836 R  42.1  33.9   0:44.67 mem2.bash
+   3194 user      20   0  275012   4432   3860 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    143.4 free,   1439.5 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    225.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  866784 647340   2880 R  42.1  34.8   0:45.30 mem.bash
+   2654 user      20   0  858732 639172   2836 R  42.1  34.4   0:45.29 mem2.bash
+   3201 user      20   0  275012   4360   3788 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    126.2 free,   1456.7 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    207.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  875628 656052   2880 R  44.4  35.3   0:45.91 mem.bash
+   2654 user      20   0  867444 647884   2836 R  38.9  34.8   0:45.90 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    109.6 free,   1473.2 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    191.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  884472 665028   2880 R  38.9  35.7   0:46.52 mem.bash
+   2654 user      20   0  875496 656068   2836 R  38.9  35.3   0:46.51 mem2.bash
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     93.4 free,   1489.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    175.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  892788 673212   2880 R  47.1  36.2   0:47.13 mem.bash
+   2654 user      20   0  883812 664252   2836 R  47.1  35.7   0:47.13 mem2.bash
+   3222 user      20   0  275012   4524   3952 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     76.4 free,   1506.4 used,    234.1 buff/cache
+MiB Swap:    820.0 total,    820.0 free,      0.0 used.    158.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  901368 681924   2880 R  42.1  36.7   0:47.74 mem.bash
+   2654 user      20   0  892524 672964   2836 R  36.8  36.2   0:47.74 mem2.bash
+   3133 root      20   0  275148   4884   4096 S   5.3   0.3   0:00.13 top
+      1 root      20   0  179580  13792   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     73.4 free,   1522.7 used,    220.8 buff/cache
+MiB Swap:    820.0 total,    819.7 free,      0.3 used.    141.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  900972 681384   2808 R  42.1  36.6   0:48.36 mem2.bash
+   2653 user      20   0  909816 690344   2852 R  31.6  37.1   0:48.35 mem.bash
+     50 root      20   0       0      0      0 S   5.3   0.0   0:00.01 kswapd0
+      1 root      20   0  179580  13788   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     79.1 free,   1541.3 used,    196.5 buff/cache
+MiB Swap:    820.0 total,    817.7 free,      2.3 used.    124.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  919188 699576   2844 R  50.0  37.6   0:49.01 mem.bash
+   2654 user      20   0  910080 690604   2788 R  43.8  37.1   0:49.01 mem2.bash
+      1 root      20   0  179580  13664   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     62.0 free,   1558.5 used,    196.5 buff/cache
+MiB Swap:    820.0 total,    817.7 free,      2.3 used.    107.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  928164 708552   2844 R  47.1  38.1   0:49.63 mem.bash
+   2654 user      20   0  918792 699052   2788 R  41.2  37.6   0:49.62 mem2.bash
+      1 root      20   0  179580  13664   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     86.8 free,   1574.7 used,    155.4 buff/cache
+MiB Swap:    820.0 total,    812.0 free,      8.0 used.     95.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  927636 708028   2788 R  44.4  38.1   0:50.26 mem2.bash
+   2653 user      20   0  937008 717528   2844 R  38.9  38.6   0:50.25 mem.bash
+   3257 user      20   0  275012   4532   3956 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13428   9132 S   0.0   0.7   0:03.96 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     69.3 free,   1591.9 used,    155.7 buff/cache
+MiB Swap:    820.0 total,    812.0 free,      8.0 used.     78.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  945984 726504   2844 R  44.4  39.0   0:50.87 mem.bash
+   2654 user      20   0  936348 716740   2788 R  33.3  38.5   0:50.86 mem2.bash
+     10 root      20   0       0      0      0 S   5.6   0.0   0:00.11 ksoftirqd/0
+   3264 user      20   0  275012   4400   3828 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13428   9132 S   0.0   0.7   0:03.96 systemd
+MiB Mem :   1816.9 total,     67.8 free,   1607.1 used,    142.0 buff/cache
+MiB Swap:    820.0 total,    809.0 free,     11.0 used.     63.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  945060 725452   2788 R  44.4  39.0   0:51.47 mem2.bash
+   2653 user      20   0  954696 735216   2844 R  38.9  39.5   0:51.47 mem.bash
+   3133 root      20   0  275148   4828   4040 S   5.6   0.3   0:00.19 top
+   3271 user      20   0  275012   4408   3836 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580  13388   9132 S   0.0   0.7   0:03.96 systemd
+MiB Mem :   1816.9 total,     61.5 free,   1622.6 used,    132.8 buff/cache
+MiB Swap:    820.0 total,    807.7 free,     12.3 used.     52.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0  953508 733900   2788 R  42.1  39.4   0:52.06 mem2.bash
+   2653 user      20   0  963144 743664   2844 R  36.8  40.0   0:52.06 mem.bash
+      1 root      20   0  179580  13356   9132 S   0.0   0.7   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     73.1 free,   1637.4 used,    106.4 buff/cache
+MiB Swap:    820.0 total,    803.5 free,     16.5 used.     52.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  971592 752112   2844 R  50.0  40.4   0:52.65 mem.bash
+   2654 user      20   0  961956 742348   2788 R  43.8  39.9   0:52.65 mem2.bash
+     50 root      20   0       0      0      0 S   6.2   0.0   0:00.20 kswapd0
+   3286 user      20   0  275012   4464   3888 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179580  13292   9128 S   0.0   0.7   0:03.98 systemd
+MiB Mem :   1816.9 total,     72.8 free,   1653.2 used,     90.9 buff/cache
+MiB Swap:    820.0 total,    801.2 free,     18.8 used.     45.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  980040 760560   2844 R  38.9  40.9   0:53.24 mem.bash
+   2654 user      20   0  970140 750532   2788 R  38.9  40.3   0:53.23 mem2.bash
+   3133 root      20   0  275148   4828   4040 R  11.1   0.3   0:00.23 top
+     50 root      20   0       0      0      0 S   5.6   0.0   0:00.24 kswapd0
+   3293 user      20   0  275012   4408   3836 R   5.6   0.2   0:00.01 top
+MiB Mem :   1816.9 total,     73.9 free,   1668.2 used,     74.8 buff/cache
+MiB Swap:    820.0 total,    799.2 free,     20.8 used.     38.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  988488 768444   2840 R  44.4  41.3   0:53.85 mem.bash
+   2654 user      20   0  978852 758576   2784 R  33.3  40.8   0:53.84 mem2.bash
+     50 root      20   0       0      0      0 S   5.6   0.0   0:00.28 kswapd0
+      1 root      20   0  179580  12144   8136 S   0.0   0.7   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     66.9 free,   1686.5 used,     63.5 buff/cache
+MiB Swap:    820.0 total,    795.5 free,     24.5 used.     25.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0  999312 777556   2612 R  41.2  41.8   0:54.61 mem.bash
+   2654 user      20   0  989676 768400   2548 R  41.2  41.3   0:54.61 mem2.bash
+   3133 root      20   0  275148   4624   3836 S   5.9   0.2   0:00.26 top
+      1 root      20   0  179580   9464   6008 S   0.0   0.5   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     73.0 free,   1698.4 used,     45.6 buff/cache
+MiB Swap:    820.0 total,    790.0 free,     30.0 used.     22.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1008420 784492   2532 R  33.3  42.2   0:55.23 mem.bash
+   2654 user      20   0  998652 777308   2480 R  33.3  41.8   0:55.24 mem2.bash
+     50 root      20   0       0      0      0 S   5.6   0.0   0:00.37 kswapd0
+   3314 user      20   0  275012   4552   3976 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   6808   4464 S   0.0   0.4   0:03.98 systemd
+MiB Mem :   1816.9 total,     73.7 free,   1702.5 used,     40.7 buff/cache
+MiB Swap:    820.0 total,    768.5 free,     51.5 used.     20.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1011588 790028   2264 R  25.0  42.5   0:56.17 mem2.bash
+   2653 user      20   0 1021488 789004   2364 R  21.4  42.4   0:56.16 mem.bash
+     50 root      20   0       0      0      0 S   7.1   0.0   0:00.51 kswapd0
+      1 root      20   0  179580   3140   2948 S   0.0   0.2   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     72.2 free,   1699.7 used,     45.0 buff/cache
+MiB Swap:    820.0 total,    741.7 free,     78.2 used.     21.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1034820 792112   1908 R  25.9  42.6   0:57.11 mem.bash
+   2654 user      20   0 1024920 803064   1836 R  25.9  43.2   0:57.11 mem2.bash
+     50 root      20   0       0      0      0 S   3.7   0.0   0:00.63 kswapd0
+   3274 root      39  19  241596   5376   2824 R   3.7   0.3   0:00.08 dnf
+      1 root      20   0  179580   2716   2524 S   0.0   0.1   0:03.98 systemd
+MiB Mem :   1816.9 total,     67.2 free,   1703.8 used,     45.9 buff/cache
+MiB Swap:    820.0 total,    724.2 free,     95.8 used.     17.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1034688 812832   1836 R  47.1  43.7   0:57.80 mem2.bash
+   2653 user      20   0 1044192 796328   1908 R  41.2  42.8   0:57.79 mem.bash
+      1 root      20   0  179580   2704   2512 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     67.4 free,   1705.5 used,     44.1 buff/cache
+MiB Swap:    820.0 total,    708.0 free,    112.0 used.     16.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1054224 794688   1908 R  50.0  42.7   0:58.50 mem.bash
+   2654 user      20   0 1044060 822072   1836 R  43.8  44.2   0:58.49 mem2.bash
+      1 root      20   0  179580   2700   2508 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     62.0 free,   1712.1 used,     42.8 buff/cache
+MiB Swap:    820.0 total,    698.2 free,    121.8 used.     10.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1052640 830784   1836 R  50.0  44.7   0:59.10 mem2.bash
+   2653 user      20   0 1062672 795336   1908 R  43.8  42.7   0:59.09 mem.bash
+   3349 user      20   0  275012   4288   3716 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179580   2700   2508 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     71.6 free,   1701.1 used,     44.2 buff/cache
+MiB Swap:    820.0 total,    667.7 free,    152.2 used.     20.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1062672 840816   1836 R  44.4  45.2   0:59.81 mem2.bash
+   2653 user      20   0 1072836 778576   1908 R  38.9  41.8   0:59.80 mem.bash
+   3356 user      20   0  275012   4336   3760 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2592   2400 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     72.5 free,   1702.9 used,     41.5 buff/cache
+MiB Swap:    820.0 total,    649.7 free,    170.2 used.     20.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1072572 850584   1836 R  50.0  45.7   1:00.52 mem2.bash
+   2653 user      20   0 1082736 775356   2004 R  38.9  41.7   1:00.49 mem.bash
+     50 root      20   0       0      0      0 S   5.6   0.0   0:00.92 kswapd0
+   3363 user      20   0  275012   4272   3696 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2592   2400 S   0.0   0.1   0:03.98 systemd
+MiB Mem :   1816.9 total,     73.6 free,   1700.5 used,     42.8 buff/cache
+MiB Swap:    820.0 total,    550.2 free,    269.8 used.     22.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1130916 757068   1564 R   7.9  40.7   1:03.84 mem.bash
+   2654 user      20   0 1119960 870800   1508 R   5.9  46.8   1:03.85 mem2.bash
+   3370 user      20   0  275012   4292   3720 R   1.0   0.2   0:00.02 top
+      1 root      20   0  179580   1648   1456 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     74.9 free,   1694.0 used,     48.0 buff/cache
+MiB Swap:    820.0 total,    517.5 free,    302.5 used.     26.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1134084 868368    920 R  24.1  46.7   1:04.88 mem2.bash
+   2653 user      20   0 1145040 754756    968 R  20.7  40.6   1:04.85 mem.bash
+   3133 root      20   0  275148    968    568 S   3.4   0.1   0:00.43 top
+   3377 user      20   0  275012   4308   3736 R   3.4   0.2   0:00.02 top
+      1 root      20   0  179580   1028    836 S   0.0   0.1   0:03.98 systemd
+MiB Mem :   1816.9 total,     67.8 free,   1695.4 used,     53.7 buff/cache
+MiB Swap:    820.0 total,    504.2 free,    315.8 used.     21.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1142532 870068    920 R  47.1  46.8   1:05.50 mem2.bash
+   2653 user      20   0 1153884 756572    968 R  41.2  40.7   1:05.47 mem.bash
+   3384 user      20   0  275012   4368   3796 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   1028    836 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     64.2 free,   1699.8 used,     52.9 buff/cache
+MiB Swap:    820.0 total,    491.0 free,    329.0 used.     17.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1162464 759620   1224 R  44.4  40.8   1:06.08 mem.bash
+   2654 user      20   0 1150584 870576    920 R  44.4  46.8   1:06.11 mem2.bash
+   3391 user      20   0  275012   4292   3720 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   1028    836 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     66.1 free,   1700.1 used,     50.7 buff/cache
+MiB Swap:    820.0 total,    475.7 free,    344.2 used.     18.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1158372 867376    920 R  38.9  46.6   1:06.70 mem2.bash
+   2653 user      20   0 1170252 762596   1224 R  33.3  41.0   1:06.67 mem.bash
+   3398 user      20   0  275012   4292   3720 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   1028    836 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     66.8 free,   1702.5 used,     47.7 buff/cache
+MiB Swap:    820.0 total,    458.0 free,    362.0 used.     17.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1178964 762544   1224 R  44.4  41.0   1:07.35 mem.bash
+   2654 user      20   0 1167216 867800   1176 R  38.9  46.6   1:07.36 mem2.bash
+   3405 user      20   0  275012   4288   3716 R  11.1   0.2   0:00.02 top
+      1 root      20   0  179580   1028    836 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     68.6 free,   1700.9 used,     47.5 buff/cache
+MiB Swap:    820.0 total,    440.2 free,    379.8 used.     19.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1187544 761940   1224 R  41.2  41.0   1:08.00 mem.bash
+   2654 user      20   0 1175928 867548   1176 R  35.3  46.6   1:08.02 mem2.bash
+   2096 root      20   0       0      0      0 I   5.9   0.0   0:00.13 kworker/0:2-events
+   3412 user      20   0  275012   4468   3896 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   1028    836 S   0.0   0.1   0:03.98 systemd
+MiB Mem :   1816.9 total,     63.3 free,   1703.4 used,     50.2 buff/cache
+MiB Swap:    820.0 total,    427.5 free,    392.5 used.     15.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1196124 763828   1224 R  44.4  41.1   1:08.60 mem.bash
+   2654 user      20   0 1184376 869536   1176 R  44.4  46.7   1:08.62 mem2.bash
+   3419 user      20   0  275012   4304   3732 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   1012    820 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     75.6 free,   1692.2 used,     49.2 buff/cache
+MiB Swap:    820.0 total,    400.0 free,    420.0 used.     27.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1204308 757924   1224 R  31.6  40.7   1:09.17 mem.bash
+   2654 user      20   0 1192692 863756   1176 R  26.3  46.4   1:09.19 mem2.bash
+     50 root      20   0       0      0      0 S  15.8   0.0   0:01.57 kswapd0
+      1 root      20   0  179580    984    792 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     81.9 free,   1688.2 used,     46.8 buff/cache
+MiB Swap:    820.0 total,    378.7 free,    441.2 used.     32.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1213152 755988   1224 R  42.9  40.6   1:09.80 mem.bash
+   2654 user      20   0 1201008 861444   1176 R  33.3  46.3   1:09.80 mem2.bash
+   3133 root      20   0  275148    968    568 S   4.8   0.1   0:00.51 top
+      1 root      20   0  179580    952    760 S   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     63.7 free,   1706.0 used,     47.2 buff/cache
+MiB Swap:    820.0 total,    378.7 free,    441.2 used.     14.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1210248 870684   1176 R  52.9  46.8   1:10.44 mem2.bash
+   2653 user      20   0 1222128 764964   1224 R  35.3  41.1   1:10.41 mem.bash
+      1 root      20   0  179580    952    760 R   0.0   0.1   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     65.0 free,   1705.7 used,     46.3 buff/cache
+MiB Swap:    820.0 total,    361.0 free,    459.0 used.     15.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1218828 870096   1176 R  44.4  46.8   1:11.05 mem2.bash
+   2653 user      20   0 1230972 764984   1224 R  38.9  41.1   1:11.02 mem.bash
+   3274 root      39  19  285812  12144   6464 R   5.6   0.7   0:00.26 dnf
+   3447 user      20   0  275012   4472   3900 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580    928    736 S   0.0   0.0   0:03.98 systemd
+MiB Mem :   1816.9 total,     72.7 free,   1698.8 used,     45.4 buff/cache
+MiB Swap:    820.0 total,    331.0 free,    489.0 used.     22.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1239684 763460   1224 R  38.9  41.0   1:11.64 mem.bash
+   2654 user      20   0 1227408 858532   1176 R  38.9  46.1   1:11.66 mem2.bash
+   3133 root      20   0  275148    968    568 S   5.6   0.1   0:00.54 top
+      1 root      20   0  179580    912    720 S   0.0   0.0   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     76.9 free,   1695.4 used,     44.7 buff/cache
+MiB Swap:    820.0 total,    308.5 free,    511.5 used.     26.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1248264 763376   1224 R  42.1  41.0   1:12.24 mem.bash
+   2654 user      20   0 1235724 852016   1176 R  42.1  45.8   1:12.25 mem2.bash
+      1 root      20   0  179580    908    716 S   0.0   0.0   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     70.2 free,   1700.8 used,     46.0 buff/cache
+MiB Swap:    820.0 total,    292.4 free,    527.6 used.     20.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1258824 765720   1224 R  17.8  41.2   1:12.97 mem.bash
+   2654 user      20   0 1246284 854512   1176 R  15.6  45.9   1:12.99 mem2.bash
+   3133 root      20   0  275148    968    568 S   4.4   0.1   0:00.57 top
+   3468 user      20   0  275012   4472   3900 R   2.2   0.2   0:00.01 top
+      1 root      20   0  179580    904    712 S   0.0   0.0   0:03.98 systemd
+MiB Mem :   1816.9 total,     67.7 free,   1704.3 used,     44.9 buff/cache
+MiB Swap:    820.0 total,    279.4 free,    540.6 used.     17.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1267272 767392   1224 R  42.1  41.2   1:13.56 mem.bash
+   2654 user      20   0 1254600 856372   1176 R  36.8  46.0   1:13.58 mem2.bash
+   3475 user      20   0  275012   4308   3732 R   5.3   0.2   0:00.01 top
+      1 root      20   0  179580    900    708 S   0.0   0.0   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     60.9 free,   1712.6 used,     43.4 buff/cache
+MiB Swap:    820.0 total,    255.0 free,    565.0 used.      9.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1278492 765996   1224 R  47.1  41.2   1:14.34 mem.bash
+   2654 user      20   0 1265556 854796   1176 R  41.2  45.9   1:14.35 mem2.bash
+   3133 root      20   0  275148    968    568 S  11.8   0.1   0:00.59 top
+   3482 user      20   0  275012   4368   3796 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580    888    696 S   0.0   0.0   0:03.98 systemd
+MiB Mem :   1816.9 total,     64.6 free,   1711.2 used,     41.2 buff/cache
+MiB Swap:    820.0 total,    248.2 free,    571.8 used.     12.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1273872 859892   1176 R  38.9  46.2   1:14.95 mem2.bash
+   2653 user      20   0 1286808 771128   1224 R  27.8  41.4   1:14.91 mem.bash
+     50 root      20   0       0      0      0 R   5.6   0.0   0:01.91 kswapd0
+   3489 user      20   0  275012   4360   3788 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580    872    680 S   0.0   0.0   0:03.98 systemd
+MiB Mem :   1816.9 total,     74.1 free,   1699.6 used,     43.2 buff/cache
+MiB Swap:    820.0 total,    218.7 free,    601.2 used.     22.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1295784 765040   1224 R  47.1  41.1   1:15.55 mem.bash
+   2654 user      20   0 1282716 853528   1176 R  41.2  45.9   1:15.57 mem2.bash
+   3496 user      20   0  275012   4340   3768 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580    872    680 S   0.0   0.0   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     83.8 free,   1690.6 used,     42.5 buff/cache
+MiB Swap:    820.0 total,    192.2 free,    627.8 used.     32.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1303704 759176   1224 R  31.6  40.8   1:16.14 mem.bash
+   2654 user      20   0 1291032 848444   1176 R  26.3  45.6   1:16.16 mem2.bash
+     50 root      20   0       0      0      0 R  21.1   0.0   0:02.02 kswapd0
+   3133 root      20   0  275148    968    568 S   5.3   0.1   0:00.62 top
+   3503 user      20   0  275012   4388   3816 R   5.3   0.2   0:00.01 top
+MiB Mem :   1816.9 total,     68.9 free,   1704.9 used,     43.2 buff/cache
+MiB Swap:    820.0 total,    190.7 free,    629.2 used.     17.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1312812 767336   1224 R  44.4  41.2   1:16.78 mem.bash
+   2654 user      20   0 1299876 856240   1176 R  44.4  46.0   1:16.79 mem2.bash
+   3510 user      20   0  275012   4316   3744 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580    868    676 S   0.0   0.0   0:03.98 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     72.6 free,   1701.5 used,     42.9 buff/cache
+MiB Swap:    820.0 total,    165.0 free,    655.0 used.     21.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1321524 768932   1224 R  52.9  41.3   1:17.38 mem.bash
+   2654 user      20   0 1308456 845700   1176 R  41.2  45.5   1:17.39 mem2.bash
+     50 root      20   0       0      0      0 S   5.9   0.0   0:02.08 kswapd0
+   3517 user      20   0  275012   4300   3728 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580    868    676 S   0.0   0.0   0:03.98 systemd
+MiB Mem :   1816.9 total,     72.3 free,   1701.8 used,     42.8 buff/cache
+MiB Swap:    820.0 total,    147.2 free,    672.8 used.     20.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1316640 842940   1176 R  38.9  45.3   1:17.97 mem2.bash
+   2653 user      20   0 1329576 769980   1224 R  27.8  41.4   1:17.94 mem.bash
+   3133 root      20   0  275148    968    568 S  11.1   0.1   0:00.65 top
+     50 root      20   0       0      0      0 S   5.6   0.0   0:02.13 kswapd0
+   3524 user      20   0  275012   4360   3788 R   5.6   0.2   0:00.01 top
+MiB Mem :   1816.9 total,     72.9 free,   1694.7 used,     49.4 buff/cache
+MiB Swap:    820.0 total,    123.2 free,    696.8 used.     24.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1324560 838604   1176 R  50.0  45.1   1:18.54 mem2.bash
+   2653 user      20   0 1337760 765720   1224 R  37.5  41.2   1:18.51 mem.bash
+     50 root      20   0       0      0      0 R  12.5   0.0   0:02.19 kswapd0
+      1 root      20   0  179580   1912   1612 S   0.0   0.1   0:03.99 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     72.8 free,   1692.1 used,     52.1 buff/cache
+MiB Swap:    820.0 total,    105.0 free,    715.0 used.     25.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1332744 837608   1176 R  50.0  45.0   1:19.11 mem2.bash
+   2653 user      20   0 1345944 764596   1224 R  43.8  41.1   1:19.09 mem.bash
+      1 root      20   0  179580   1912   1612 S   0.0   0.1   0:03.99 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     63.2 free,   1696.4 used,     57.3 buff/cache
+MiB Swap:    820.0 total,     90.7 free,    729.2 used.     18.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1354656 765816   1224 R  50.0  41.2   1:19.69 mem.bash
+   2654 user      20   0 1341192 838992   1176 R  50.0  45.1   1:19.71 mem2.bash
+      1 root      20   0  179580   1912   1612 S   0.0   0.1   0:03.99 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     63.1 free,   1695.3 used,     58.6 buff/cache
+MiB Swap:    820.0 total,     76.7 free,    743.2 used.     19.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1363104 767088   1224 R  41.2  41.2   1:20.27 mem.bash
+   2654 user      20   0 1349376 839916   1176 R  41.2  45.1   1:20.28 mem2.bash
+      1 root      20   0  179580   1912   1612 S   0.0   0.1   0:03.99 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     64.1 free,   1695.0 used,     57.8 buff/cache
+MiB Swap:    820.0 total,     60.2 free,    759.8 used.     20.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1357824 840048   1176 R  47.4  45.2   1:20.89 mem2.bash
+   2653 user      20   0 1371156 766664   1224 R  36.8  41.2   1:20.85 mem.bash
+      1 root      20   0  179580   1912   1612 S   0.0   0.1   0:03.99 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     77.9 free,   1682.7 used,     56.3 buff/cache
+MiB Swap:    820.0 total,     31.4 free,    788.6 used.     33.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1379076 760024   1224 R  35.3  40.8   1:21.43 mem.bash
+   2654 user      20   0 1365612 832936   1176 R  35.3  44.8   1:21.45 mem2.bash
+     50 root      20   0       0      0      0 R  23.5   0.0   0:02.40 kswapd0
+   3567 user      20   0  275012   4368   3796 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   1912   1612 S   0.0   0.1   0:03.99 systemd
+MiB Mem :   1816.9 total,     70.9 free,   1683.3 used,     62.7 buff/cache
+MiB Swap:    820.0 total,     13.8 free,    806.2 used.     29.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1387788 761544   1224 R  44.4  40.9   1:22.04 mem.bash
+   2654 user      20   0 1373928 830436   1176 R  38.9  44.6   1:22.05 mem2.bash
+   3274 root      39  19  454068  14680   6928 R   5.6   0.8   0:00.41 dnf
+   3574 user      20   0  275012   4332   3760 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   1912   1612 S   0.0   0.1   0:03.99 systemd
+MiB Mem :   1816.9 total,     71.9 free,   1692.4 used,     52.7 buff/cache
+MiB Swap:    820.0 total,      0.0 free,    820.0 used.     25.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2653 user      20   0 1396764 767044   1224 R  38.9  41.2   1:22.67 mem.bash
+   2654 user      20   0 1382772 827656   1176 R  38.9  44.5   1:22.69 mem2.bash
+   3581 user      20   0  275012   4372   3800 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   1716   1416 S   0.0   0.1   0:03.99 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    795.6 free,    948.9 used,     72.4 buff/cache
+MiB Swap:    820.0 total,    372.3 free,    447.7 used.    758.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1415112 834752   1348 R  43.8  44.9   1:26.13 mem2.bash
+   3588 user      20   0  275012   4556   3984 R   3.1   0.2   0:01.02 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    765.1 free,    965.8 used,     86.1 buff/cache
+MiB Swap:    820.0 total,    372.6 free,    447.4 used.    734.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1432140 851648   1348 R  93.8  45.8   1:27.36 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    748.0 free,    982.6 used,     86.4 buff/cache
+MiB Swap:    820.0 total,    372.6 free,    447.4 used.    718.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1448508 868016   1348 R  88.2  46.7   1:28.52 mem2.bash
+   3274 root      39  19  454696  19656  12104 R   5.9   1.1   0:00.56 dnf
+   3602 user      20   0  275012   4464   3892 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    729.8 free,    999.7 used,     87.5 buff/cache
+MiB Swap:    820.0 total,    373.1 free,    446.9 used.    700.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1465140 884648   1348 R  82.4  47.5   1:29.68 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    710.4 free,   1017.1 used,     89.5 buff/cache
+MiB Swap:    820.0 total,    373.1 free,    446.9 used.    681.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1481904 901724   1540 R  94.1  48.5   1:30.86 mem2.bash
+   3616 user      20   0  275012   4408   3832 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    693.0 free,   1033.6 used,     90.4 buff/cache
+MiB Swap:    820.0 total,    373.1 free,    446.9 used.    664.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1498404 918092   1540 R  82.4  49.3   1:32.02 mem2.bash
+    465 root       0 -20       0      0      0 I   5.9   0.0   0:00.35 kworker/0:1H-kblockd
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    675.6 free,   1049.5 used,     91.8 buff/cache
+MiB Swap:    820.0 total,    373.1 free,    446.9 used.    648.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1514376 933932   1540 R  82.4  50.2   1:33.17 mem2.bash
+   3630 user      20   0  275012   4548   3976 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    649.4 free,   1067.6 used,     99.9 buff/cache
+MiB Swap:    820.0 total,    373.1 free,    446.9 used.    626.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1532460 952148   1540 R  46.9  51.2   1:34.46 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.59 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    632.2 free,   1083.4 used,    101.4 buff/cache
+MiB Swap:    820.0 total,    373.1 free,    446.9 used.    609.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1548036 967724   1540 R  88.2  52.0   1:35.62 mem2.bash
+   3644 user      20   0  275012   4500   3928 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    616.7 free,   1098.6 used,    101.6 buff/cache
+MiB Swap:    820.0 total,    373.1 free,    446.9 used.    594.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1563348 983036   1540 R  88.9  52.8   1:36.79 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    600.5 free,   1114.0 used,    102.5 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    578.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1578792 998612   1540 R  93.8  53.7   1:37.95 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    583.7 free,   1130.3 used,    102.9 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    562.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1594368 990.4m   1540 R  88.2  54.5   1:39.12 mem2.bash
+   3274 root      39  19  516640  32652  19664 R   5.9   1.8   0:00.71 dnf
+   3665 user      20   0  275012   4384   3812 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    566.8 free,   1146.4 used,    103.7 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    545.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1610472   1.0g   1540 R  88.9  55.4   1:40.30 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    550.2 free,   1162.8 used,    103.9 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    529.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1627104   1.0g   1540 R  83.3  56.3   1:41.46 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    533.8 free,   1179.1 used,    104.0 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    512.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1643736   1.0g   1540 R  83.3  57.2   1:42.63 mem2.bash
+     10 root      20   0       0      0      0 S   5.6   0.0   0:00.17 ksoftirqd/0
+   3686 user      20   0  275012   4384   3808 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    517.4 free,   1195.4 used,    104.1 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    496.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1660500   1.0g   1540 R  88.9  58.1   1:43.81 mem2.bash
+   3693 user      20   0  275012   4404   3832 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    500.7 free,   1211.7 used,    104.6 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    479.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1676736   1.0g   1540 R  87.5  58.9   1:44.97 mem2.bash
+   3133 root      20   0  275148    396      0 S   6.2   0.0   0:01.96 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    483.8 free,   1228.4 used,    104.7 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    462.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1693368   1.1g   1540 R  93.8  59.8   1:46.14 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    466.9 free,   1244.8 used,    105.2 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    446.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1709868   1.1g   1540 R  88.2  60.7   1:47.31 mem2.bash
+   3714 user      20   0  275012   4396   3820 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    450.6 free,   1260.8 used,    105.6 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    430.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1725972   1.1g   1540 R  82.4  61.6   1:48.47 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    434.0 free,   1277.2 used,    105.7 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    413.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1742208   1.1g   1540 R  76.5  62.4   1:49.62 mem2.bash
+   3133 root      20   0  275148    396      0 S  11.8   0.0   0:02.00 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    417.6 free,   1293.5 used,    105.8 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    397.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1758576   1.1g   1540 R  94.4  63.3   1:50.81 mem2.bash
+   3274 root      39  19  536956  36292  20852 R   5.6   2.0   0:00.88 dnf
+   3735 user      20   0  275012   4424   3852 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    400.4 free,   1310.2 used,    106.4 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    380.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1775208   1.1g   1540 R  94.1  64.2   1:51.98 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    383.7 free,   1326.7 used,    106.6 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    363.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1791840   1.2g   1540 R  99.9  65.1   1:53.14 mem2.bash
+   3749 user      20   0  275012   4556   3984 R   6.7   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    367.6 free,   1342.7 used,    106.6 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    347.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1807812   1.2g   1540 R  83.3  66.0   1:54.31 mem2.bash
+   3133 root      20   0  275148    396      0 S   5.6   0.0   0:02.03 top
+   3274 root      39  19  544536  37632  21144 R   5.6   2.0   0:00.93 dnf
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    350.6 free,   1359.0 used,    107.3 buff/cache
+MiB Swap:    820.0 total,    373.3 free,    446.7 used.    331.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1824180   1.2g   1540 R  82.4  66.9   1:55.46 mem2.bash
+    465 root       0 -20       0      0      0 I   5.9   0.0   0:00.37 kworker/0:1H-kblockd
+   3763 user      20   0  275012   4564   3992 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    333.4 free,   1374.9 used,    108.6 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    314.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1840284   1.2g   1540 R  88.2  67.7   1:56.63 mem2.bash
+   3770 user      20   0  275012   4416   3840 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    315.0 free,   1390.5 used,    111.5 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    297.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1855992   1.2g   1540 R  82.4  68.6   1:57.78 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    298.9 free,   1406.6 used,    111.5 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    281.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1872228   1.2g   1540 R  77.8  69.4   1:58.95 mem2.bash
+   3784 user      20   0  275012   4508   3936 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    282.8 free,   1422.5 used,    111.6 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    265.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1888332   1.2g   1540 R  82.4  70.3   2:00.12 mem2.bash
+   3527 root      20   0       0      0      0 I   5.9   0.0   0:00.09 kworker/0:0-events_power_ef+
+   3791 user      20   0  275012   4496   3924 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,    266.3 free,   1438.7 used,    111.9 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    249.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1904436   1.3g   1540 R  82.4  71.2   2:01.28 mem2.bash
+   3798 user      20   0  275012   4368   3796 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    249.8 free,   1455.2 used,    112.0 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    232.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1921068   1.3g   1540 R  88.2  72.1   2:02.46 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    233.7 free,   1471.2 used,    112.0 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    216.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1937436   1.3g   1540 R  77.8  72.9   2:03.61 mem2.bash
+   3133 root      20   0  275148    396      0 S   5.6   0.0   0:02.10 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    230.6 free,   1474.3 used,    112.0 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    213.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1940472   1.3g   1540 R  88.2  73.1   2:03.83 mem2.bash
+   3819 user      20   0  275012   4564   3992 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    214.1 free,   1490.6 used,    112.2 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    197.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1956840   1.3g   1540 R  83.3  74.0   2:05.00 mem2.bash
+   3826 user      20   0  275012   4360   3788 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    197.0 free,   1507.0 used,    113.0 buff/cache
+MiB Swap:    820.0 total,    373.6 free,    446.4 used.    180.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1973340   1.3g   1540 R  88.2  74.9   2:06.17 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    180.3 free,   1523.3 used,    113.3 buff/cache
+MiB Swap:    820.0 total,    373.8 free,    446.2 used.    163.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 1989708   1.3g   1540 R  83.3  75.8   2:07.32 mem2.bash
+   3133 root      20   0  275148    396      0 S   5.6   0.0   0:02.13 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    163.1 free,   1539.9 used,    113.9 buff/cache
+MiB Swap:    820.0 total,    374.6 free,    445.4 used.    146.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2005812   1.4g   1540 R  99.9  76.6   2:08.46 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    146.0 free,   1556.1 used,    114.9 buff/cache
+MiB Swap:    820.0 total,    375.3 free,    444.7 used.    130.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2021652   1.4g   1540 R  93.3  77.5   2:09.60 mem2.bash
+   3527 root      20   0       0      0      0 I   6.7   0.0   0:00.10 kworker/0:0-events_power_ef+
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,    129.7 free,   1572.4 used,    114.8 buff/cache
+MiB Swap:    820.0 total,    375.3 free,    444.7 used.    113.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2038284   1.4g   1540 R  99.9  78.4   2:10.77 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,    114.2 free,   1587.9 used,    114.8 buff/cache
+MiB Swap:    820.0 total,    375.3 free,    444.7 used.     98.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2054256   1.4g   1540 R  88.2  79.2   2:11.93 mem2.bash
+   3133 root      20   0  275148    396      0 S   5.9   0.0   0:02.17 top
+   3868 user      20   0  275012   4452   3880 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     98.3 free,   1603.8 used,    114.9 buff/cache
+MiB Swap:    820.0 total,    375.6 free,    444.4 used.     82.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2070360   1.4g   1540 R  88.2  80.1   2:13.09 mem2.bash
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     82.6 free,   1619.5 used,    114.8 buff/cache
+MiB Swap:    820.0 total,    375.6 free,    444.4 used.     66.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2086464   1.4g   1540 R  88.2  81.0   2:14.26 mem2.bash
+   3882 user      20   0  275012   4516   3944 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2620   2304 S   0.0   0.1   0:04.60 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     82.4 free,   1615.0 used,    119.5 buff/cache
+MiB Swap:    820.0 total,    376.3 free,    443.7 used.     68.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2102172   1.5g   1540 R  77.8  81.8   2:15.38 mem2.bash
+      1 root      20   0  179580   3816   3252 D   0.0   0.2   0:04.61 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     66.0 free,   1631.1 used,    119.9 buff/cache
+MiB Swap:    820.0 total,    377.1 free,    442.9 used.     52.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2117880   1.5g   1540 R  88.2  82.6   2:16.53 mem2.bash
+   3897 user      20   0  275012   4496   3924 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   3816   3252 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     70.3 free,   1644.7 used,    101.9 buff/cache
+MiB Swap:    820.0 total,    376.8 free,    443.2 used.     48.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2135304   1.5g   1540 R  93.8  83.6   2:17.78 mem2.bash
+      1 root      20   0  179580   3816   3252 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     71.2 free,   1654.1 used,     91.7 buff/cache
+MiB Swap:    820.0 total,    370.6 free,    449.4 used.     43.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2152332   1.5g   1540 R  77.8  84.1   2:18.98 mem2.bash
+      1 root      20   0  179580   3816   3252 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     72.6 free,   1661.2 used,     83.2 buff/cache
+MiB Swap:    820.0 total,    364.8 free,    455.2 used.     40.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2168304   1.5g   1540 R  88.2  84.7   2:20.14 mem2.bash
+   3919 user      20   0  275012   4564   3988 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   3816   3252 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     71.5 free,   1669.0 used,     76.4 buff/cache
+MiB Swap:    820.0 total,    358.1 free,    461.9 used.     36.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2184276   1.5g   1540 R  78.9  85.2   2:21.29 mem2.bash
+      1 root      20   0  179580   3816   3252 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     75.2 free,   1675.8 used,     65.9 buff/cache
+MiB Swap:    820.0 total,    348.3 free,    471.7 used.     34.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2200644   1.5g   1540 R  78.9  85.5   2:22.45 mem2.bash
+      1 root      20   0  179580   3816   3252 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     74.3 free,   1687.7 used,     55.0 buff/cache
+MiB Swap:    820.0 total,    343.3 free,    476.7 used.     28.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2218332   1.5g   1508 R  88.2  86.2   2:23.71 mem2.bash
+   3940 user      20   0  275012   4380   3808 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   3512   2948 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     74.7 free,   1690.8 used,     51.5 buff/cache
+MiB Swap:    820.0 total,    322.6 free,    497.4 used.     27.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2239056   1.5g   1508 R  88.2  86.2   2:25.19 mem2.bash
+      1 root      20   0  179580   3124   2560 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     78.9 free,   1688.9 used,     49.2 buff/cache
+MiB Swap:    820.0 total,    303.8 free,    516.2 used.     30.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2255424   1.5g   1508 R  68.8  86.0   2:26.33 mem2.bash
+     50 root      20   0       0      0      0 S  12.5   0.0   0:08.49 kswapd0
+      1 root      20   0  179580   2956   2392 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     62.4 free,   1705.1 used,     49.5 buff/cache
+MiB Swap:    820.0 total,    303.8 free,    516.2 used.     13.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2272056   1.5g   1508 R  82.4  86.9   2:27.53 mem2.bash
+      1 root      20   0  179580   2956   2392 S   0.0   0.2   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     74.6 free,   1695.4 used,     47.0 buff/cache
+MiB Swap:    820.0 total,    284.6 free,    535.4 used.     24.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2288424   1.5g   1508 R  88.2  86.7   2:28.68 mem2.bash
+   3968 user      20   0  275012   4568   3996 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2668   2104 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     73.4 free,   1697.5 used,     46.0 buff/cache
+MiB Swap:    820.0 total,    271.8 free,    548.2 used.     23.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2304660   1.5g   1508 R  88.2  86.9   2:29.85 mem2.bash
+   3975 user      20   0  275012   4456   3884 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2556   1992 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     72.7 free,   1700.4 used,     43.8 buff/cache
+MiB Swap:    820.0 total,    258.4 free,    561.6 used.     21.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2320764   1.5g   1508 R  87.5  87.0   2:30.99 mem2.bash
+     50 root      20   0       0      0      0 S   6.2   0.0   0:08.62 kswapd0
+   3982 user      20   0  275012   4388   3816 R   6.2   0.2   0:00.01 top
+      1 root      20   0  179580   2452   1888 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     73.5 free,   1700.7 used,     42.7 buff/cache
+MiB Swap:    820.0 total,    240.5 free,    579.5 used.     21.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2337000   1.5g   1508 R  83.3  86.9   2:32.16 mem2.bash
+     50 root      20   0       0      0      0 S   5.6   0.0   0:08.68 kswapd0
+   3989 user      20   0  275012   4452   3880 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2280   1716 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     65.4 free,   1708.7 used,     42.8 buff/cache
+MiB Swap:    820.0 total,    220.3 free,    599.7 used.     13.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2352576   1.5g   1508 R  76.5  86.7   2:33.28 mem2.bash
+     50 root      20   0       0      0      0 R  11.8   0.0   0:08.73 kswapd0
+      1 root      20   0  179580   2240   1676 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     62.6 free,   1712.0 used,     42.4 buff/cache
+MiB Swap:    820.0 total,    211.2 free,    608.8 used.     10.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2368284   1.5g   1508 R  83.3  87.0   2:34.43 mem2.bash
+   4003 user      20   0  275012   4400   3828 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2204   1640 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     76.1 free,   1699.8 used,     41.0 buff/cache
+MiB Swap:    820.0 total,    191.6 free,    628.4 used.     23.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2383200   1.5g   1508 R  50.0  86.7   2:35.52 mem2.bash
+     50 root      20   0       0      0      0 S  27.8   0.0   0:08.82 kswapd0
+   4010 user      20   0  275012   4468   3896 R   5.6   0.2   0:00.01 top
+      1 root      20   0  179580   2120   1556 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     72.9 free,   1703.7 used,     40.3 buff/cache
+MiB Swap:    820.0 total,    179.6 free,    640.4 used.     19.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2398116   1.5g   1508 R  64.7  86.8   2:36.66 mem2.bash
+     50 root      20   0       0      0      0 S  17.6   0.0   0:08.85 kswapd0
+   4017 user      20   0  275012   4452   3880 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2100   1536 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     72.9 free,   1704.3 used,     39.7 buff/cache
+MiB Swap:    820.0 total,    165.9 free,    654.1 used.     19.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2412636   1.5g   1508 R  88.2  86.9   2:37.77 mem2.bash
+     50 root      20   0       0      0      0 S   5.9   0.0   0:08.90 kswapd0
+   4024 user      20   0  275012   4408   3836 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2088   1524 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+MiB Mem :   1816.9 total,     71.0 free,   1706.4 used,     39.5 buff/cache
+MiB Swap:    820.0 total,    147.8 free,    672.2 used.     17.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2426628   1.5g   1508 R  88.2  86.6   2:38.87 mem2.bash
+      1 root      20   0  179580   2084   1520 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     73.5 free,   1703.3 used,     40.1 buff/cache
+MiB Swap:    820.0 total,    123.6 free,    696.4 used.     20.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2441808   1.5g   1508 R  88.2  86.1   2:39.97 mem2.bash
+   4038 user      20   0  275012   4456   3880 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   2032   1468 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     71.9 free,   1705.2 used,     39.8 buff/cache
+MiB Swap:    820.0 total,    108.4 free,    711.6 used.     18.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2458308   1.5g   1508 R  88.2  86.2   2:41.14 mem2.bash
+   4045 user      20   0  275012   4528   3956 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   1984   1420 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     71.7 free,   1705.9 used,     39.3 buff/cache
+MiB Swap:    820.0 total,     92.5 free,    727.5 used.     18.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2474280   1.5g   1508 R  94.1  86.1   2:42.26 mem2.bash
+   4052 user      20   0  275012   4500   3928 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   1940   1376 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     61.8 free,   1715.9 used,     39.2 buff/cache
+MiB Swap:    820.0 total,     86.2 free,    733.8 used.      8.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2490384   1.5g   1508 R  82.4  86.7   2:43.41 mem2.bash
+     50 root      20   0       0      0      0 S   5.9   0.0   0:09.13 kswapd0
+      1 root      20   0  179580   1936   1372 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     70.1 free,   1707.4 used,     39.4 buff/cache
+MiB Swap:    820.0 total,     59.0 free,    761.0 used.     16.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2505300   1.5g   1508 R  94.1  86.0   2:44.50 mem2.bash
+      1 root      20   0  179580   1880   1316 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     71.0 free,   1706.4 used,     39.5 buff/cache
+MiB Swap:    820.0 total,     35.6 free,    784.4 used.     17.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2521272   1.5g   1508 R  94.1  85.5   2:45.63 mem2.bash
+      1 root      20   0  179580   1848   1284 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
+MiB Mem :   1816.9 total,     73.0 free,   1704.6 used,     39.3 buff/cache
+MiB Swap:    820.0 total,     11.3 free,    808.7 used.     19.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2537244   1.5g   1508 R  88.2  85.1   2:46.79 mem2.bash
+   4080 user      20   0  275012   4380   3808 R   5.9   0.2   0:00.01 top
+      1 root      20   0  179580   1820   1256 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,     72.1 free,   1706.1 used,     38.7 buff/cache
+MiB Swap:    820.0 total,      0.0 free,    820.0 used.     18.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2654 user      20   0 2553084   1.5g   1508 R  83.3  85.3   2:47.91 mem2.bash
+   3527 root      20   0       0      0      0 I   5.6   0.0   0:00.12 kworker/0:0-mm_percpu_wq
+      1 root      20   0  179580   1796   1232 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+MiB Mem :   1816.9 total,   1665.1 free,    100.7 used,     51.2 buff/cache
+MiB Swap:    820.0 total,    727.9 free,     92.1 used.   1617.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4094 user      20   0  275012   4404   3832 R   5.3   0.2   0:01.18 top
+      1 root      20   0  179580   1004    260 S   0.0   0.1   0:04.62 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par_gp
